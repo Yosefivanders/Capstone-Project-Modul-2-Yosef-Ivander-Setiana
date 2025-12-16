@@ -63,5 +63,10 @@ Memberikan kontribusi yang relevan terhadap total omzet
 
 Evaluasi promosi sebaiknya tidak hanya berdasarkan jumlah transaksi, tetapi juga mempertimbangkan nilai transaksi, omzet, dan perilaku pelanggan.
 
+Berikut link Tableau yang bisa di akses
+https://public.tableau.com/app/profile/yosef.ivander3780/viz/CapstoneProjectModul2_17658027255140/EfektivitasPromositerhadapPerilakuPelanggan?publish=yes
+
 Catatan :
 Proyek ini dibuat sebagai bagian dari Capstone Project Modul 2 (Data Analysis) dan bertujuan untuk menunjukkan kemampuan analisis data, eksplorasi data, serta penyampaian insight berbasis bisnis.
+
+
